@@ -1,0 +1,41 @@
+.card {
+    width: 300px;
+    border: 5px solid #0e0303;
+    border-radius: 8px;
+    margin: 10px;
+    overflow: hidden;
+    
+  }
+  
+  .destination-container {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 40px; 
+    padding: 100px;
+    background-color:antiquewhite;
+  }
+  
+  .card {
+    width: 1500px; 
+    height: 1800px;
+  }
+  .card-image {
+    width: auto;
+    height: 1300px;
+    object-fit: cover;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-content h2 {
+    font-size: 60px;
+  }
+  
+  .card-content p {
+    padding: 0px;
+    font-size: 50px;
+  }
+  
+ 

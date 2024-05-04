@@ -1,0 +1,38 @@
+
+.blog-container {
+    margin: 0 auto;
+    padding: 20px;
+    background-color:antiquewhite;
+  }
+  
+    h1 {
+    font-size: 150px;
+    margin-bottom: 20px;
+    font-style: italic;
+  }
+  
+  p{
+    font-size: 80px;
+    font-style: oblique;
+  }
+  .place-info {
+    margin-bottom: 30px;
+  }
+  
+  .place-info h2 {
+    font-size: 100px;
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .place-info img {
+    display:inline-block;
+    text-align: center;
+    height:1200px;
+    width:1700px;
+    border:8px solid #000;
+    margin-right: 100px;
+    margin-left: 300px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }

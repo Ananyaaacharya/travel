@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #333;
+    color: '#fff';
+    padding:'20px';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 40px;
+  }
+  .nav-links {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+    gap: 100px; 
+    padding: 40;
+    color: #fff;
+    font-size:80px;
+    font-style: oblique;
+  }
+.navbar h1{
+    color: rgb(251, 250, 249);
+    font-size:100px;
+    font-style: oblique;
+}
